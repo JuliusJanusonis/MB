@@ -1,0 +1,9 @@
+MB "Everoptics" vysto ir kuria aparatūrą, skirtą charakterizuoti optinėms dangoms, jų tolygumui ir defektams. Optinės dangos yra plačiai vartojamos pradedant nuo buitinės optikos, kaip fotoobjektyvų, žiūronų, skaidrintų optinių elementų, iki industrinių taikymų, tokių kaip lazerių dielektriniai ir metaliniai veidrodžiai, lęšiai, statiniai ir dinaminiai poliarizacijos valdymo elementai. Svarbus taikymas ultravioletinėje srityje yra fotolitografijos įranga (puslaidininkiams) ir puslaidininkių pramonėje gaminių charakterizavimui naudojama įranga.
+
+MB "Everoptics" kuriamas metrologinis prietaisas "Spectral mapper" kaip tik skirtas patogiam optinių dangų charakterizavimui spektroskopijos metodu (analizuojant praėjusią ir atspindėtą šviesą). Optiniai elementai būna skirti įvairioms sąlygoms - praleisti šviesą, ją atspindėti, atspindėti užduotais kampais, ir kuriama aparatūra leidžia matavimus visose šiose sąlygose, taip nereikalaujant papildomų skaičiavimų ir rezultatų adaptacijos. Aparatūra dengia populiariausią spektrinį ruožą - ultravioleto pradedant nuo 220nm, matomąjį ir tolesnį infraraudonosios šviesos (iki 1300nm). Tai perdengia tiek daugelį puslaidininkių metrologijos taikymų, tiek didelę dalį lazerinių šaltinių, ir, atitinkamai, jų optikos. 
+
+Prietaiso unikalumą sudaro į vieną vieta integruotos galimybės matuoti pralaidume ir atspindyje, galimybės patogiai vykdyti didelės skyros didelio ploto (optinių elementų kontekste) matavimus, integruotos duomenų peržiūros ir analizės galimybės. Papildomas svarbus prietaiso bruožas - galimybė vykdyti automatizuotus matavimus pasikartojančiu būdu, automatiškai lokalizuojant bandinio paviršių, ir kartojant tokius matavimus eliminuojant įmanomas operatoriaus klaidas.
+Papildomas planuojamas įrangos originalumas susijęs 
+
+Pagrindiniai vartotojai kaip matoma yra optikos gamintojai, optinių dangų gamintojai, optiką savo tiekimo grandinėse turinčios įmonės.
+

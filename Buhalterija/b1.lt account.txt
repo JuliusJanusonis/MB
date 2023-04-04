@@ -1,0 +1,2 @@
+adresas: b1.lt
+passw: Kurargumentai9

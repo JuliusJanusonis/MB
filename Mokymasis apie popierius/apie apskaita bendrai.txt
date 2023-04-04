@@ -1,0 +1,95 @@
+Turtas (kaire) = Nuosavybe (desine)
+pelnas = pajamos - sanaudos
+pelnas yra nuosavybes rusis, tai ta proga jis atsiranda nuosavybes dalyje;
+del to abu komponentai - pajamos ir sanaudos - taip pat atsiranda nuosavybes dalyje
+
+Kadangi turtas visada lygus nuosavybei, tai pelnas atsispindi abiejose pusese
+
+tarkim, pelnas atsirado parduodant:
+
+pardavimas balanse atrodo taip:
+turto puseje
+   pinigu padidejimas
+   prekiu isnykimas
+
+pajamos
+  pajamos is pardavimo
+
+sanaudos
+  prekiu kaina
+  papildomos sanaudos
+
+Jei pirkejas nesumoka iskart, tai pirkejo skola taip pat yra turte;
+pirkejo puseje turbut yra taip, kad jo skola reiskia, kad as turiu nuosavybes jo imoneje
+
+
+
+Pirkimas tuo tarpu atsispindi taip:
+sumazeja pinigu,
+atsiranda prekiu
+t.y., tiesiog pasikeicia mturto forma, bet nesikeicia nuosavybes dalis
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`
+Balansas ir susideda is turto ir nuosavybes
+
+
+moketinos sumos ir isipareigojimai: esme - skolintas kapitalas
+
+
+Ataskaitos:
+pelno - nuostoliu
+pelnas yra perkeliamas i "nepaskirstytas pelnas", ir ta suma didinamas nuosavas kapitalas (nuosavybe); t.y., cia turbut metu gale perlnas virsta kapitalu nuosavybes puseje
+
+Isdetalizavus Turtas = Nuosavybe:
+ilagalaikis_turtas + trumpalaikis_turtas = nuosavas_kapitalas + isipareigojimai + pajamos - sanaudos
+   (1)				(2)			(3)				(4)		(5)		(6)
+Saskaitu planas ta grozi detalizuoja
+
+pinigai saskaitoje - tai trumpalaikis turtas
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dvejybinis irasas
+D = K
+Saskaitu korespondencija - kai debetuojama viena saskaita, o kredituojama - kita
+
+debetas ir kreditas su padidejimu ir sumazejimu susijes per ta gala, i kuria balanso puse patenka kategorija su pliuso zenklu
+
+perrasius:
+ilagalaikis_turtas + trumpalaikis_turtas + sanaudos = nuosavas_kapitalas + isipareigojimai + pajamos
+   (1)				(2)			(6)		(3)			(4)			(5)	
+debetas didina desine puse;  kreditas didina kaire puse
+kreditas mazina desine puse; debetas didina kaire puse
+
+taigi, kai kas nor ivyksta, kai D = K, tai islieka balansas, nesvarbu,kas vyksta
+
+Griztant prie saskaitu plano, saskaitu korespondencijos eiga, ivykus ivykiui:
+a) kokios saskaitos pasikeite
+b) kitimo linkme: D/K
+c) isitikinam, kad sueina galai ir bendras D = K
+
+saskaitu korespondencijos sudarymas: taip  vadinasi
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Ivykiu ir operaciju registravimas
+apskaitos registras - remiantis apskaitos dokumentais parengta ukiniu operacinu ar ukiniu ivykiu suvestine, kurioje apibendrinti ju duomenys
+Pagrindiniai (mokymosi tikslais naudojami) registrai:
+   bendrasis zurnalas
+   T formos saskaitos
+   Didzioji knyga
+
+daugumos registru forma nereglamentuojama
+registruojama chronologine arba sistemine tvarka
+
+Bendrasis zurnalas:
+chronologiniai veiksmai saskaitose. Kiekviena operacija uzregistuojama atskirai, sudedamos visos saskaitos, kurioms ta operacija turejo itakos, paskutineje eiluteje irasomas operacijos turinys
+
+Saskaitu suvestines; paprasciausiasi variantas yra T-formos saskaitos
+T formos saskaitos (lektuvelis):
+operaciju suvestine, isskaidyta pagal saskaita
+atrodo, kad tai yra uz tam tikra laikotarpi
+
+Didzioji knyga (apyvartos ziniarasciu suvestine/saskaitu suvestine/suvestine):
+apibendrinti visu saskaitu duomenys; yra skirta tam tikram laikotarpiui; likutis laikotarpio pradzioje, likutis laikotarpio pabaigoje
+
+joje yra likutis pradzioje, apyvarta, likutis pabaigoje visoms saskaitoms

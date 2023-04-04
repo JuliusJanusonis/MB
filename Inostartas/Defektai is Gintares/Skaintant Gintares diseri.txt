@@ -1,0 +1,14 @@
+Skaintant Gintares diseri
+
+Defects related to sample properties can be intrinsic or extrinsic 
+
+
+Extrinsic defects
+are inherent to optical element production processes: glass shaping, polishing,
+cleaning and deposition procedures [28, 29, 41, 42, 140, 141]. These are impurit-
+ies !!(usually isolated nm size particles)!!
+ that result in band tail states!!!
+ and surface
+states (film interfaces and grain boundaries)!!!,
+ scratches, pits, fractures and other
+macro and microscale structures that are formed or embedded during the external treatment of the material. 

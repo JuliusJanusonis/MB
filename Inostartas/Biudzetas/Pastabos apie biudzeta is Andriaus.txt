@@ -1,0 +1,12 @@
+1. auksta skyra 15-20um
+2. 50-70
+3. 1''
+
+
+kameros, apsvietimas
+lazerinis pointeriukas
+
+mechanikos biudzetas kaip vienetas: mechanikos rinkinys; rotacine asis, poliarizatorius
+linear motors
+zaber
+linear stage horizontali

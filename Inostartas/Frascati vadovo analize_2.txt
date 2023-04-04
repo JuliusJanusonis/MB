@@ -1,0 +1,144 @@
+pasiklausti del tpl lygiu, kai vykdoma veikla
+ar galima dirbti tame paciam tpl, nuo kurio startavome?
+del priimtinos atkartojamumo formos
+
+~~~~~~~~~~
+ Naujumas
+~~~~~~~~~~
+MTEP projektų potencialus naujumas turi būti vertinamas lyginant jį su
+pramonės sektoriuje esamomis žiniomis
+MTEP projektų metu gauti nauji sprendiniai turi
+būti nauji verslui ir iki tol dar nenaudoti pramonėje
+
+
+MTEP yra formalus žinių kūrimo būdas, įskaitant žinias, kuriomis grindžiami produktai ir
+procesai, todėl vertinimas yra nukreiptas į naujas žinias, o ne į naujus arba iš esmės
+patobulintus produktus ar procesus, gautus pritaikius naujas žinias !!!!!
+
+~~~~~~~~~~~~~~
+ Kūrybiškumas
+~~~~~~~~~~~~~~
+Veikla, pagrįsta originaliomis, neakivaizdžiomis idėjomis ir hipotezėmis
+MTEP projekto tikslas turi būti naujos koncepcijos ar idėjos, tobulinančios
+esamas žinias. Dėl šios priežasties MTEP projektuose būtinas tyrėjų dalyvavimas
+Pavyzdžiui, duomenų apdorojimas nėra MTEP veikla, jei tai nėra projekto, kuriuo siekiama rasti naujų duomenų apdorojimo būdų, dalis.
+
+~~~~~~~~~~~~~~~~
+ Neapibrėžtumas
+~~~~~~~~~~~~~~~~
+Veikla, kurios galutiniai rezultatai nėra aiškūs
+Pavyzdžiui, neapibrėžtumas yra pagrindinis kriterijus siekiant
+atskirti MTEP prototipavimo veiklą (modelių, skirtų išbandyti technines koncepcijas ir
+technologijas, turinčias aukštą taikymo nesėkmės riziką) nuo ne MTEP prototipavimo
+veiklos (bandomosios partijos ikigamybinių vienetų, skirtų atlikti techninį arba teisinį
+sertifikavimą)
+
+~~~~~~~~~~~~~~~
+ Sistemingumas
+~~~~~~~~~~~~~~~
+MTEP yra formali, sistemingai vykdoma veikla. Šiame kontekste žodis
+„sistemingas“ reiškia, kad MTEP veikla vykdoma pagal nustatytą planą, dokumentuojant
+informaciją apie proceso eigą ir rezultatus.
+
+~~~~~~~~~~~~~~~~
+ Atkartojamumas
+~~~~~~~~~~~~~~~~
+Versle rezultatai gali būti saugomi numatant konfidencialumo įsipareigojimus
+arba taikant kitas intelektinės nuosavybės apsaugos priemones, tačiau tikimasi, kad
+procesas ir rezultatai bus dokumentuojami tam, kad jais galėtų pasinaudoti kiti verslo
+sektoriuje dirbantys tyrėjai. 
+
+Viešas whitepaper
+arxiv.org
+
+
+
+MTEP pavyzdziai
+MTEP veikla mechaninės inžinerijos pramonėje dažnai glaudžiai siejasi su
+projektavimo ir braižybos darbais. Jei kalkuliacijų, modelių, darbo brėžinių ir eksploatavimo instrukcijų reikia sukurti bandomosioms gamykloms ir prototipams įrengti bei eksploatuoti, jie turėtų būti įtraukti į MTEP.
+
+Šiame
+pavyzdyje galima įžvelgti keletą MTEP veiklos ypatybių, pavyzdžiui: naujumą tiriant
+naujo prietaiso galimybes prototipavimo metu; neapibrėžtumą, nes atliekant prototipų
+bandymus, gali būti gauti netikėti rezultatai; kūrybiškumą, kuris pasireiškia naujo
+prietaiso, kuris bus gaminamas, dizaino sukūrimu; perduodamumą – rengiant techninę
+dokumentaciją, kuriuose bandymų rezultatai paverčiami informacija, naudojama
+produkto vystymo etape; sistemiškumą, jei minėtoji techninė veikla yra pagrįsta
+kruopščiu projekto organizavimu.
+
+
+
+Skirstymas pagal MTEP rusi
+Taikomieji tyrimai – tai originalus tyrimas, atliekamas naujoms žinioms
+įgyti ir nukreiptas visų pirma į specifinių praktinių tikslų pasiekimą ar uždavinių
+įgyvendinimą.
+
+Taikomieji tyrimai yra vykdomi arba siekiant nustatyti fundamentinių tyrimų
+metu gautų duomenų galimus panaudojimo būdus, arba nustatyti naujus metodus ar būdus
+siekiant konkrečių ir iš anksto nustatytų tikslų. Tai – turimų žinių nagrinėjimas bei jų plėtra,
+siekiant išspręsti konkrečias problemas. 
+
+Taikomųjų tyrimų rezultatus visų pirma siekiama pritaikyti produktams,
+operacijoms, metodams ar sistemoms. Taikomieji tyrimai suteikia idėjoms funkcinę formą. 
+
+~~~~~~~~~~~~~~~~~~~~~~~
+ Eksperimentinė plėtra
+~~~~~~~~~~~~~~~~~~~~~~~
+moksliniu tyrimu pagrindu veikdami igyjam papildomu ziniu tiesiogiai prisidedančių kuriant naujus produktus ar procesus, ar juos tobulinant. Bendru ziniu pritaikomumas pagal konkrecia paskirti
+
+Pavyzdys yra neapibrėžtumas dėl išteklių,
+reikalingų pasiekti MTEP projekto, kurio metu vykdoma atitinkama veikla, tikslą.
+
+
+Eksperimentinė plėtra apima tik vieną galimą produkto kūrimo etapą, kuriame
+faktiškai patikrinamas bendrų žinių pritaikomumas pagal konkrečią paskirtį, reikalingas
+produkto kūrimo procesui sėkmingai užbaigti. Eksperimentinės plėtros etape įgyjama
+naujų žinių ir šis etapas užbaigiamas tada, kai jau MTEP identifikavimo kriterijai (naujumas,
+neapibrėžtumas, kūrybiškumas, sistemiškumas, perduodamumas ir (ar) atkartojamumas)
+nebėra tinkami. Pavyzdžiui, procese, kurio tikslas – sukurti naują automobilį, gali būti
+svarstoma galimybė automobiliui pritaikyti tam tikras technologijas, kurios atitinkamai
+būtų išbandomos – šiame etape vykdoma eksperimentinė plėtra. Taip naujai pritaikius
+žinias, bus gauti nauji rezultatai. Ši veikla yra neapibrėžta, nes atlikus bandymus gali būti
+gauti neigiami rezultatai. Veikla turės būti kūrybiška, nes jos metu ieškoma naujų esamų
+technologijų panaudojimo galimybių
+
+Ne gamybinė plėtra!!! Pasistenkim projekte tai aiškiai parašytiPirmasis
+etapas – integruotos oro puolimo (gynybos) sistemos sukūrimas, derinant parengtus
+komponentus ir posistemes, kurie šiame kontekste dar nebuvo integruoti. Tam reikalinga
+didelės apimties orlaivio bandomųjų skrydžių programa, kuri gali būti itin brangi ir sudaryti
+pagrindinę ikigamybinių sąnaudų dalį. Nors didžioji dalis darbų, atliekamų šiame etape, yra
+eksperimentinė plėtra (MTEP)
+
+
+
+2.37 MTEP veiklos klasifikavimą pagal rūšį lemia pagrindinis kriterijus – tikėtinas
+rezultatų panaudojimas. Be to, MTEP projektą galima identifikuoti atsakant į šiuos du
+klausimus:
+● Kiek greitai galima tikėtis pritaikyti projekto rezultatus?
+● Kiek yra galimų MTEP projekto rezultatų pritaikymo sričių (kuo fundamentalesnis
+tyrimas, tuo daugiau yra galimų jo rezultatų pritaikymo sričių). 
+
+
+Pavyzdžiai pagal sritis
+
+2.7. MTEP pavyzdžiai, skirtingų sričių ribos ir išimtys 
+ 
+Prototipai
+Prototipų projektavimas, konstravimas ir bandymas paprastai patenka į
+MTEP sferą. Tai taikytina nepriklausomai nuo to, ar sukurtas tik vienas prototipas, ar keli,
+ar jie buvo kuriami paeiliui, ar vienu metu. Tačiau kai visi būtini prototipo (-ų) pakeitimai
+yra atlikti, o bandymas užbaigtas sėkmingai, galutinis MTEP tikslas yra pasiektas. 
+
+Prototipų virtualizavimui taikomos tos pačios taisyklės ir ši veikla
+priskiriama MTEP, jei atliekami bandymai yra MTEP projekto dalis ir jais siekiama gauti
+
+Pramoninis dizainas   Mišrus vertinimas    MTEP veiklai reikalinga dizaino
+kūrimo veikla priskiriama MTEP. MTEP nepriskiriama gamybos
+procesui reikalingas dizainas. 
+
+
+MTEP ir projektavimas 
+
+Vis dėlto ne visi projektavimo darbai
+atitinka !!!naujumo ir neapibrėžtumo!!! kriterijus, kurie šiame skyriuje priskiriami penkiems
+pagrindiniams MTEP kriterijams.

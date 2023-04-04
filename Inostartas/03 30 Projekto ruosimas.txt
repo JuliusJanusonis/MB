@@ -1,0 +1,77 @@
+03 30 Projekto ruosimas
+
+1. perskaitom projekto apraso forma ir verslo plano forma +
+2. ~15 pasiteiraujam inovacijos agenturos to, ko norim apie TPL ir veiksmus jam keisti +
+2. i ja atsizvelgdami, pabaigiam projekta laisva forma
+3. sudedam i aprasa
+4. padarom mtep verslo plana
+5. 
+
+
+Medziagos ir komponentai naudojami butent mokslui
+ir tada tie patys komponentai gali b8ti panaudoti ir prototipui surinkti, bet pl4tra - tai tik surinkimo darbai
+
+
+
+Problemos
+Administracinis projekto vadovas negali buti tas pats, kaip ir techninis
+ 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+MTEP verslo planas
+Numatomo sukurti naujo ar iš esmės patobulinto produkto aprašymas:
+
+3.1.1. Aprašomos konkrečios savybės, išmatuojamos charakteristikos, techniniai sprendimai ir pan., kuriais pasižymės naujai kuriamas produktas, kuriamo produkto inovatyvumas. Taip pat aprašoma, kokiomis naujomis savybėmis, lyginant su rinkoje esančiais analogais, pasižymės numatomas kurti produktas, pateikiami palyginimai (jei įmanoma, palyginant konkrečius parametrus) su analogais ar artimiausiais pakaitalais. Jeigu, neatlikus tyrimų, neįmanoma apibrėžti konkrečių išmatuojamų produkto savybių, pateikiamas kuo platesnis numatomo tyrimų rezultatų panaudojimo aprašymas. Aprašoma, kaip ir kodėl minėti produkto pranašumai yra svarbūs vartotojams, kokią naudą nauji produktai teiks vartotojams, kokias problemas išspręs ir kita.
+
+
+
+
+yra prototipo lygio dalykas, bet jam yra 
+nauji taikymai ir tam reikia kiek pakeisti pacia sistema pritaikymas padidintai skyrai ir pan
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+0. parašom, kurios savybės yra naujos
+1. susiejam taikymus ir prietaiso savybes
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Frascati punktu draftas: 1h iki 14:30
+4.3.1. 
+4.3.2. +
+4.3.3. 
+4.3.4. 
+4.3.5. +
+
+Veiklu saraso draftas iki 15:30
+Numatomo sukurti naujo ar iš esmės patobulinto produkto aprašymo draftas iki 17
+
+
+
+Naujos ir papildomos žinios
+1. kaip sukurti stabilią aukštos skyros kompaktišką sistemą (kompaktiška eis į plėtrą) 
+2. kaip sukabinti duomenis pakankamai gerai
+3. kaip   
+
+
+Originalios hipotezės:
+1. didelės skyros matavimas dideliame plote leidžia charakterizuoti labai didelio atspindžio optinius elementus ir surinkti pakankamą statistiką
+2. Paviršinis optikos užteršimas gali būti atskirtas pagal spektrinę signatūrą 
+3. Sklaidantys extrinsic defektai gali būti detektuojami (bus kita spektrinė signatūra, nei sugerties, Mie tipo sklaidos ~1/lambda); gal net sklaidos funkcija galima paimti, šviečiant vienu kampu, o imant visokiais
+4. Sugeriantys extrinsic defektai gali būti randami ir lokalizuojami
+5. galimi gauti efektyvūs duomenys sluoksnių storiui charakterizuoti naudojantis kampinėmis priklausomybėmis; komplementarūs duomenys pralaidume ir atspindyje
+6. erdvinio spektro filtravimas gali sukurti prielaidą matuoti didele skyra tačiau mažu erdviniu kampu; dėl praleisto vidurkinimo duomenys turėtų būti jautresni dangų struktūrai
+
+Nepibrėžtumas
+
+turi būti, bet turi būti valdomas
+
+Tikimybė nepasiekti norimos skyros
+Tikimybė, kad matavimo režimai bus neįvertinti
+Tikimybė, kad matavimo režimai 
+
+2.4.5.
+
+
+Reikia dar sugalvoti tą eksperimentinę plėtrą partneriams!!!!
+
+
